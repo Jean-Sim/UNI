@@ -33,7 +33,7 @@ circ_solve = sp.solve(circ, y)
 solu = sp.solve(sp.Eq(sp.sqrt(100 - x**2) - 3, (1/9)*x**2 + 1), x)
 print(solu)
 
-sp.plot((1/9)*x**2 + 1, circ_solve[-1], show=True)
+sp.plot((1/9)*x**2 + 1, circ_solve[-1], circ_solve[0], show=True)
 
 time.sleep(3)
 
