@@ -69,6 +69,6 @@ a = uncertainties.ufloat(149.6*10**9, 0)
 G = uncertainties.ufloat(sc.physical_constants['Newtonian constant of gravitation'][0],
                          sc.physical_constants['Newtonian constant of gravitation'][-1])
 c = a*m
-T = ((a**3)*(4*sc.pi**2))/(G*(M+m))
+T = sp.sqrt(((a**3)*(4*sc.pi**2))/(G*(M+m)))
 
 print(f"Die Umlaufzeit ist: {T}")
