@@ -1,0 +1,63 @@
+http://www.theguardian.com/science/2013/aug/06/higgs-boson-physics-hits-buffers-discovery
+
+Particle physics
+Alok Jha, science correspondent
+
+One year on from the Higgs boson find, has physics hit the buffers?
+Despite the success of the Large Hadron Collider, evidence for the follow-up theory – supersymmetry – has proved elusive
+
+A little over a year ago, physicists put the finishing touches to the most successful scientific theory of all time: the Standard Model of particle physics. When the Higgs boson was found at the Large Hadron Collider in July 2012, it was the final piece in our picture of the universe at the smallest, subatomic scales.
+
+Champagne corks flew in physics labs around the world at this vindication of quantum field theory, which had been more than 80 years and dozens of Nobel prizes in the making.
+
+Inevitably, a hangover followed. The leading idea for how to push physics beyond the Standard Model – and explain the many remaining mysteries of the universe – is looking shaky. Thousands of physicists have spent their career carefully constructing the theory, called supersymmetry. It has taken almost four decades. But, so far, the most powerful particle accelerator ever built – the Large Hadron Collider (LHC) at Cern, near Geneva – has not found any hard evidence to back up the theory.
+
+This conspicuous lack of proof has led a growing number of physicists, particularly those who are less invested in supersymmetry, to publicly call time on the idea. Perhaps, despite all the work, the theory is just plain wrong.
+
+The Standard Model describes all the fundamental particles that make up the matter and forces in the universe – including electrons, quarks and photons – but it has some worrying omissions. It fails, for example, to include a description of the familiar force of gravity, which not only keeps us rooted to the ground but also shapes the universe at the scale of stars and galaxies. Neither is it able to explain the presence of so much matter, as opposed to anti-matter, in the universe.
+
+Worse, the particles and forces in the Standard Model can account for only around 4% of the mass of the universe. The remaining 96% is dark matter and dark energy, and scientists have no idea what either of these things might be. The Standard Model has been a great success, but it can take us only so far in understanding the fabric of reality.
+
+Enter supersymmetry. First formulated in the early 1970s, and with more than 10,000 scientific papers written about it, the theory has fought off rival ideas to emerge as the leading candidate to explain physics beyond the Standard Model.
+
+Its central proposition is that every particle in the Standard Model has a heavier, as-yet-unseen "superpartner". The superpartners of quarks and electrons, for example, are called squarks and selectrons; the superpartners of the Higgs, and of force carriers such as the photon, are the higgsino and photino.
+
+"This theory is founded on such a lovely idea: that you have this additional symmetry in nature that unites force and matter and gives a deep, intimate connection between them, that tells them they're not distinct entities by themselves, that the universe is really rather simpler than you might have thought," says Professor Tara Shears, a particle physicist at Liverpool University.
+
+Supersymmetry is attractive for many reasons, not least because its lightest predicted supersymmetric particle, the neutralino, could be a candidate for the universe's dark matter.
+
+The theory also solves a fundamental problem with the Higgs boson. The natural mass of the boson should be subject to huge fluctuations as it interacts with other fundamental particles. Left unchecked, this could mean that its mass could grow bigger than any value we have observed. To get around this, supersymmetry proposes that the superpartners of every fundamental particle also interact with the Higgs, but in such a way that each one almost exactly cancels out the fluctuations of their normal partners.
+
+"It's such an attractive idea," says Shears. "But," she warns, "if that idea is going to be reality, you need to have experimental proof."
+
+One way to prove that supersymmetry is a true picture of nature is to find some of its predicted superpartner particles at the LHC. But, as yet, there has been nothing. All the results from experiments match up neatly with the Standard Model.
+
+To find new particles, scientists at the LHC accelerate protons to near the speed of light and smash them together. As the wreckage fires out in all directions, it produces an array of particles. The higher the energy of the collision, the more massive the particles that can be formed. So far, the collider has been smashing together particles at a peak energy of around half its maximum output, and has uncovered the Higgs boson, which has a mass of around 125 gigaelectronvolts (GeV).
+
+The masses of the predicted supersymmetric particles are not fixed in the theoretical models. But scientists know that the superpartner of the top quark, for example, should not be much bigger than the Higgs boson.
+
+"Even the best supersymmetry fans would say that if – when – we go to higher energies, we see no sign of anything, and we manage to exclude the superpartner of the top quark up to a few TeV [teraelectronvolts], it's significantly less interesting," says Professor Jon Butterworth, who works on the Atlas detector at the LHC and is head of the physics and astronomy department at University College London.
+
+"In my view … it's already less credible than it was before the LHC turned on. If we don't find the top superpartner in the next run, then I think it's dead, to be honest."
+
+The LHC is currently switched off, part way through a technical upgrade that will allow proton collisions near the machine's maximum-rated energy, of 14TeV, by the start of 2015. If supersymmetry is real, then scientists might expect the particles it predicts to show up in the detectors as jets of hadrons (composite particles made of quarks) coming out of the collision that are not balanced, in terms of momentum, by the jets going off in the opposite direction. The missing momentum could be a sign that a neutralino has been created but, because it interacts so weakly with normal matter, it can be detected only indirectly.
+
+"Supersymmetry is a bit late to the party, but I don't think it's lost yet," says Professor Ben Allanach, a particle theorist at the University of Cambridge who works on supersymmetry. "That's not necessarily a view held by many of my colleagues. Many of the experimentalists – and some theorists – have got disheartened with it and are giving up already. It begs the question: when would I give up if there's no new evidence?"
+
+Allanach says he will wait until the LHC has spent a year or so collecting data from its high-energy runs from 2015. And if no particles turn up during that time? "Then what you can say is there's unlikely to be a discovery of supersymmetry at Cern in the foreseeable future," he says.
+
+John Ellis, a particle theorist at Cern and King's College London, has been working on supersymmetry for more than 30 years, and is optimistic that the collider will find the evidence he has been waiting for. But when would he give up? "After you've run the LHC for another 10 years or more and explored lots of parameter space and you still haven't found supersymmetry at that stage, I'll probably be retired. It's often said that it's not theories that die, it's theorists that die."
+
+Ellis counsels his colleagues, some of whom he admits are getting spooked by the lack of evidence for supersymmetry, to have patience. "There can be a big gap between a proposal of a theoretical idea and the experimental confirmation. Let's not forget that the Higgs boson was proposed in 1964 and it took 48 years for it to be discovered," he says. "Realistic supersymmetric theories probably date back to 1973, so we've only been looking for supersymmetry for 40 years. So keep the faith."
+
+Theorists are well aware that anything they come up with on paper, scientifically speaking, is subject to confirmation by experiment. "Theorists never take anything for granted – your theory is just as good as anybody else's, until it's been proven wrong," says Shears.
+
+But if the LHC doesn't find any compelling proof for supersymmetry in the next few years, physicists will be left with some uncomfortable possibilities. It could be that the accelerator is just not powerful enough to produce the new particles, and a future accelerator will discover them. Or it could be that we do not live in a supersymmetric universe. "Then," says Shears," we have the third alternative, which is going to be the most frustrating of all, which is that we could live in a supersymmetric universe and just never know."
+
+In that case, what fills the theory gap? "If nothing else shows up – we've got a Higgs and nothing else – then it's not at all obvious what the next experiment ought to be," says Butterworth. In other words, if supersymmetry doesn't work out, theorists do not have a ready alternative to take its place.
+
+If the worst happens, and supersymmetry does not show itself at the LHC, Allanach says it will be a wrench to have to go and work on something else. "I'll feel a sense of loss over the excitement of the discovery. I still feel that excitement and I can imagine it, six months into the running at 14TeV and then some bumps appearing in the data and getting very excited and getting stuck in. It's the loss of that that would affect me, emotionally."
+
+Ellis, though confident that he will be vindicated, is philosophical about the potential failure of a theory that he, and thousands of other physicists, have worked on for their entire careers.
+
+"It's better to have loved and lost than not to have loved at all," he says. "Obviously we theorists working on supersymmetry are playing for big stakes. We're talking about dark matter, the origins of mass scales in physics, unifying the fundamental forces. You have to be realistic: if you are playing for big stakes, very possibly you're not going to win."
